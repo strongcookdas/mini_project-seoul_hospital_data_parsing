@@ -24,10 +24,10 @@
 5. 세부 분과 별로 병원의 개수
 
 ### 개념적 설계
-![img.png](img.png)
+![img.png](Img/img.png)
 
 ### 물리적 설계
-![img_1.png](img_1.png)
+![img_1.png](Img/img_1.png)
 
 ### 과정 개요
 
@@ -39,7 +39,7 @@
 
 ## 4. 코드 구조
 ### 클래스 다이어그램
-![img_3.png](img_3.png)
+![img_3.png](Img/img_3.png)
 - 클래스
     - main : LineReader, LineWriter를 사용하여 파일을 파싱하는 클래스
     - LIneReader : 파일을 읽어와서 파싱하는 클래스
